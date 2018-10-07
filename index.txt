@@ -7,4 +7,5 @@ change branch
 using master
 using branch1
 the last change
+test no fast-forward
 
