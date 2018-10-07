@@ -8,4 +8,6 @@ using master
 using branch1
 the last change
 test no fast-forward
+test git stash
+haha
 
